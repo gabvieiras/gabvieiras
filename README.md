@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Gabriel Vieira 🖐️
 
-<div align="center">
-  <a href="mailto:gabrielvieira.wks@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+ <h1 align="center">Contact</h1>
+ <a href="mailto: gabrielvieira.wks@gmail.com">
+  <img width="30" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+</a>
   <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/gavieirah/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
   </a>
 </div>
 <br>
