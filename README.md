@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Gabriel Vieira 🖐️
 
 <h1 align="center">Contact</h1>
-<div align="center">
-  <a href="mailto: gabrielvieira.wks@gmail.com">
-    <img width="30" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
-  </a>
+ <a href="mailto: gabrielvieira.wks@gmail.com">
+  <img width="30" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+</a>
   <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/">
     <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
