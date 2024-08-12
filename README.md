@@ -11,14 +11,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
-
 <br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&langs_count=16&theme=blue"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
 
 <div align="center">
   <div style="display: inline_block"><br>
