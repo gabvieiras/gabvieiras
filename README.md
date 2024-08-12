@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Gabriel Vieira 🖐️
 
- <h1 align="center">Contact</h1>
- <a href="mailto: gabrielvieira.wks@gmail.com">
-  <img width="30" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
-</a>
+<h1 align="center">Contact</h1>
+<div align="center">
+  <a href="mailto: gabrielvieira.wks@gmail.com">
+    <img width="30" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail">
+  </a>
   <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/">
     <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
   </a>
@@ -12,6 +13,11 @@
   </a>
 </div>
 <br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
