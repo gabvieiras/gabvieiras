@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Gabriel Vieira 🖐️
 
+
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielvieira.wks@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieira-174947198/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gavieirah/)
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&langs_count=16&theme=great-gatsby"/>
