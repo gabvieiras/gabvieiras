@@ -28,12 +28,12 @@
   <img align="center" height="30" width="40" alt="tailwind-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img 
+<img 
   align="center" 
   height="30" 
   width="40" 
   alt="springboot-icon" 
-  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3Lnd3dy53My5vcmcvMjAwMCI+CiAgPHBhdGggZD0iTTEyIDQuN2MtMy41IDAtNi41IDItNi41LTYuNSAwLTMuNS0yLjItNi41LTYuNS02LjV2LTcuNWgtLjF2LTkuN2wtMy41LTMuNWwtLjEtLjEsMy4zLTcuNXYtOS44QzExLjk4IDQuNCAxMi42IDIuMyAxMi4zIDIuM2MwLTIuOCAyLjctNS44IDQuMy02LjMuOC4xIDIuMyAxLjEgMi4yIDQuNS0yLjEgNC41LTQuNiAwLTQuMS0yLjEtNi4zLTMuNS02LjQgMy40LTEuNiwzLjEgMy45LDEuMyAxLjItMi4xLDMuMi02LjMtMy4yLTYuOC00LjUgMCA2LjYtMy4xIDQuMi00LjIgMy4yLTYuMy01LjEtOC42LTkuOWMwLTIuMy00LjItNC4xLTUuMS00LjEgMC0yLjMgMi4xLTQuNCA0LjEtNC4xIDAtNC43LTMuMy01LjEtNC43LTUuMy01LTIuNiw0LjgtNi45IDAsMi4xLTQuMiA0LjIgNi4xLTEuNyAyLjYtNC42IDMuMi0zLTIuMi02LjItMy42LTcuNi05LjIgMy41LTcuOCA0LjEtMy44IDUuMi02LjUgMy41LTMuOS0zLjEtMy45LTQuMi01LTMuNi01LTMuMS00LjItMy44LTYuNy05LjgtMy42LTQuNy02LTMuMS00LjYtMy45LTQuMi03LjUtMy41LTQuMi01LjItMy43LTIuNi00LjYtNC4xLTMuNi00LjEtMy42LTMuNS0zLjQtMy45LTcuMi00LjMtNi4xLTUuMy02LjQtMy4zLTQuMy0yLjMtNS42LTQuMi02LTMuNi05LjEtMy40LTQuNy02LjQtMi42LTQuMy00LjctMy4zLTMuMi01LjI2LTQuMiA0LjItNi42LTQuNi00LjEgNi41LTMuNyAzLjctMy43LTIuNi00LjgtNi4xLTUuMy02LjMtMy43LTQuMy00LjctMy45LTMuMy00LjYtNi4xLTEuMy0zLjUuNC04LjIgOC4yLTEuNC0zLjItMy40LTMuNwIgLz4KPC9zdmc+Cg=="
+  src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" 
 />
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
