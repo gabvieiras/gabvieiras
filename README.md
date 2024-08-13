@@ -33,7 +33,7 @@
   height="30" 
   width="30" 
   alt="springboot-icon" 
-  src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" 
+  src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000" 
 />
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
