@@ -31,7 +31,7 @@
 <img 
   align="center" 
   height="30" 
-  width="40" 
+  width="30" 
   alt="springboot-icon" 
   src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" 
 />
