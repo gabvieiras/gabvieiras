@@ -1,15 +1,12 @@
-name: Update GitHub Stats
+name: Update README with GitHub Stats
 
 on:
   push:
     branches:
       - main
-    paths:
-      - '**/*.md'
-      - '.github/workflows/update-status.yml'
 
 jobs:
-  update-status:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,10 +15,8 @@ jobs:
 
     - name: Update README with GitHub Stats
       run: |
-        # Atualizando o README com informações reais ou estatísticas
-        # Adicione aqui os comandos ou scripts necessários para gerar e atualizar o conteúdo do README.
-        
-        # Exemplo de atualização fictícia para demonstração
+        # Atualize seu README.md com informações reais ou estatísticas
+        # Exemplo fictício de atualização
         echo "Atualizando status do repositório..." > README.md
         
         # Configuração do Git
@@ -30,7 +25,7 @@ jobs:
         
         # Adiciona e comita as mudanças
         git add README.md
-        git commit -m "Atualizando status do repositório"
+        git commit -m "Atualizando status do repositório" || echo "No changes to commit"
         
-        # Força o push das mudanças
+        # Push das mudanças usando o token do GitHub Actions
         git push
