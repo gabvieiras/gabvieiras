@@ -1,41 +1,56 @@
-## 👋 Olá! Eu sou o Gabriel Vieira
+## Olá! Eu sou o Gabriel Vieira 🖐️
+
+<h1 align="center">Contato</h1>
+<div align="center">
+  <a href="mailto:gabrielvieira.wks@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/gavieirah/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+<br>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
-  ### 📬 Entre em Contato
-  <div>
-    <a href="mailto:gabrielvieira.wks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/gavieirah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  </div>
-
-  <br>
-
-  <div>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=great-gatsby">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&theme=great-gatsby">
-  </div>
-
-  <br>
-
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-    <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 0 auto;">
     
-    <div>
-      <h3>🛠️ Stack Tecnológico</h3>
-      <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-        <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+      <img height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="display: block;">
+      
+      <div style="text-align: left;">
+        <h1 style="text-align: center; margin-bottom: 20px;">Tecnologias com experiência</h1>
+        
+        <!-- Ícones das tecnologias ALINHADOS -->
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+          <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img height="30" width="40" alt="tailwind-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+          <img height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+          <img height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+          <img height="30" width="40" alt="springboot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+          <img height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          <img height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+          <img height="30" width="40" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+          <img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        </div>
       </div>
     </div>
+    
   </div>
-
 </div>
+
+<br>
+<hr>
+
+<h2 align="center">📊 GitHub Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabvieiras&theme=github" alt="Activity Graph" width="90%">
+</p>
