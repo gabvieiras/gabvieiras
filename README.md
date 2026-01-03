@@ -74,8 +74,6 @@
 
 <br><br>
 <hr>
-
-<h2 align="center">✨ Características da Animação</h2>
 <div align="center">
 
 </div>
