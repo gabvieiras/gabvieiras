@@ -5,7 +5,7 @@
 # Olá! Eu sou o Gabriel Vieira 🖐️
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Python+%7C+TypeScript+%7C+Tailwind;Sempre+construindo+algo+novo..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Cycle+Developer;Java+%7C+Spring+Boot+%7C+Angular+&+React;Python+%7C+TypeScript+%7C+Tailwind;Sempre+construindo+algo+novo..." alt="Typing SVG" />
 </p>
 
 ---
