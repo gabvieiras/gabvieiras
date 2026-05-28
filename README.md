@@ -1,46 +1,79 @@
+````md
 ## Olá! Eu sou o Gabriel Vieira 🖐️
 
-<h1 align="center">Contato</h1>
-<div align="center">
-  <a href="mailto:gabrielvieira.wks@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/gavieirah/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-<br>
-
-<!-- Imagem centralizada -->
-<div align="center">
-  <img height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
-
-<br>
-<hr>
-
-<!-- Título centralizado acima do gráfico -->
-<h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabvieiras&theme=github" alt="Activity Graph" width="90%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Python+%7C+TypeScript+%7C+Tailwind;Sempre+construindo+algo+novo..." alt="Typing SVG" />
 </p>
 
-<!-- Seção de Tecnologias como rodapé -->
+---
+
+<h2 align="center">🌐 Contato</h2>
+
 <div align="center">
-  <h2>🛠️ Tecnologias</h2>
-  <div style="display: inline-block; text-align: center;">
-    <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img height="30" width="40" alt="tailwind-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-    <img height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img height="30" width="40" alt="springboot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <img height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img height="30" width="40" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </div>
+  <a href="mailto:gabrielvieira.wks@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriel-vieira-174947198/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/gavieirah/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
+
+<br>
+
+<div align="center">
+  <img height="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV0cHk0Z2M0YjB4ZXl5cWx5Ynd2OHBmc2N1c3JxMnN1N2F0ZGFhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
+
+---
+
+<h2 align="center">⚡ Sobre mim</h2>
+
+```yaml
+Nome: Gabriel Vieira
+Foco: Fullstack Development
+Backend: Java + Spring Boot
+Frontend: Angular + Tailwind
+Linguagens: JavaScript, TypeScript, Python
+Banco de Dados: MySQL
+Objetivo: Criar produtos modernos, rápidos e escaláveis
+````
+
+---
+
+<h2 align="center">🚀 Tecnologias</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,tailwind,mysql,html,css,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📈 Estatísticas</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🔥 Streak</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabvieiras&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+</div>
+```
