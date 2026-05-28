@@ -1,5 +1,8 @@
-````md
-## Olá! Eu sou o Gabriel Vieira 🖐️
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gabvieiras&color=blueviolet&style=flat" />
+</p>
+
+# Olá! Eu sou o Gabriel Vieira 🖐️
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Python+%7C+TypeScript+%7C+Tailwind;Sempre+construindo+algo+novo..." alt="Typing SVG" />
@@ -26,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img height="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV0cHk0Z2M0YjB4ZXl5cWx5Ynd2OHBmc2N1c3JxMnN1N2F0ZGFhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
 ---
@@ -57,9 +60,9 @@ Objetivo: Criar produtos modernos, rápidos e escaláveis
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -68,8 +71,16 @@ Objetivo: Criar produtos modernos, rápidos e escaláveis
 <h2 align="center">🔥 Streak</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabvieiras&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gabvieiras&theme=radical&hide_border=true" />
 </div>
+
+---
+
+<h2 align="center">🐍 Contribuições</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
