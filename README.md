@@ -38,11 +38,11 @@
 
 ```yaml
 Nome: Gabriel Vieira
-Foco: Fullstack Development
+Foco: Full Cycle Development
 Backend: Java + Spring Boot
-Frontend: Angular + Tailwind
+Frontend: Angular + Tailwind & React
 Linguagens: JavaScript, TypeScript, Python
-Banco de Dados: MySQL
+Banco de Dados: MySQL / Postgress / Oracle
 Objetivo: Criar produtos modernos, rápidos e escaláveis
 ````
 
@@ -55,16 +55,6 @@ Objetivo: Criar produtos modernos, rápidos e escaláveis
 </p>
 
 ---
-
-<h2 align="center">📈 Estatísticas</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabvieiras&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabvieiras&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
 
 ---
 
